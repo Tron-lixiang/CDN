@@ -3,6 +3,9 @@ const ap = new APlayer({
     fixed: true,
     autoplay: true,
     order: 'random',
+    loop: 'all',
+    preload: 'auto',
+    mutex: true,
     audio: [
         {
             name: "喜欢你",
