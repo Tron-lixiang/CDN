@@ -32,6 +32,18 @@ const ap = new APlayer({
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Welcome_To_Los_Santos.jpg',
         },
         {
+            name: 'Theme_From_SanAndreas',
+            artist: 'GTA4',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Theme_From_SanAndreas.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Theme_From_SanAndreas.jpg',
+        },
+        {
+            name: '2_Phút_Hơn',
+            artist: 'Pháo,Kaiz',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/2_Phút_Hơn.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/2_Phút_Hơn.jpg',
+        },
+        {
             name: '最美的期待',
             artist: '周笔畅',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/zuimeideqidai.mp3',
@@ -60,6 +72,12 @@ const ap = new APlayer({
             artist: '蔡琴',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/ferry.mp3',
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/ferry.jpg',
+        },
+        {
+            name: 'Kолыбельная',
+            artist: 'Rauf & Faik',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/yaolanqu.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/yaolanqu.jpg',
         },
         {
             name: 'Sweet Dreams',
@@ -108,6 +126,18 @@ const ap = new APlayer({
             artist: '阿冗',
             url: 'http://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/nidedaan.mp3',
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/nidedaan.jpg',
+        },
+        {
+            name: 'Pimped_out_Getaway',
+            artist: 'PAYDAY2',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Pimped_out_Getaway.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Pimped_out_Getaway.jpg',
+        },
+        {
+            name: 'Gangsta\'s_Paradise',
+            artist: 'Coolio/L.V.',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Gangstas_Paradise.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Gangstas_Paradise.jpg',
         },
         {
             name: 'Heathens',
