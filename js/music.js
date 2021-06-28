@@ -152,12 +152,6 @@ const ap = new APlayer({
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Heathens.jpg',
         },
         {
-            name: 'TRON_Legacy(End_Titles)',
-            artist: 'TRON',
-            url: 'http://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/TRON_Legacy(End_Titles).mp3',
-            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/TRON_Legacy(End_Titles).jpg',
-        },
-        {
             name: 'Daybreak',
             artist: 'Overwerk',
             url: 'http://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/OVERWERK-Daybreak.mp3',
@@ -174,6 +168,12 @@ const ap = new APlayer({
             artist: 'Ludovico Einaudi',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Experience.mp3',
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Experience.jpg',
+        },
+        {
+            name: 'TRON_Legacy(End_Titles)',
+            artist: 'TRON',
+            url: 'http://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/TRON_Legacy(End_Titles).mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/TRON_Legacy(End_Titles).jpg',
         }
     ]
 });
