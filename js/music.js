@@ -98,7 +98,7 @@ const ap = new APlayer({
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Soviet_March.jpg',
         },
         {
-            name: 'Yuriko_Theme',
+            name: 'Yuriko Theme',
             artist: '红色警戒3起义',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/YurikoTheme.mp3',
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/YurikoTheme.jpg',
@@ -140,7 +140,7 @@ const ap = new APlayer({
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Pimped_out_Getaway.jpg',
         },
         {
-            name: 'Gangsta\'s_Paradise',
+            name: 'Gangsta\'s Paradise',
             artist: 'Coolio/L.V.',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Gangstas_Paradise.mp3',
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Gangstas_Paradise.jpg',
