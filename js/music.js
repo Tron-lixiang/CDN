@@ -56,16 +56,16 @@ const ap = new APlayer({
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Sweet_Dreams.jpg',
         },
         {
+            name: '男孩别哭',
+            artist: 'dope',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/nanhaibieku.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/nanhaibieku.jpg',
+        },
+        {
             name: 'Soviet March',
             artist: '红色警戒3',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/soviet_march.mp3',
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Soviet_March.jpg',
-        },
-        {
-            name: '男孩别哭',
-            artist: '橙dope',
-            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/nanhaibieku.mp3',
-            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/nanhaibieku.jpg',
         },
         {
             name: '光辉岁月',
