@@ -32,6 +32,18 @@ const ap = new APlayer({
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Welcome_To_Los_Santos.jpg',
         },
         {
+            name: '最美的期待',
+            artist: '周笔畅',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/zuimeideqidai.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/zuimeideqidai.jpg',
+        },
+        {
+            name: '牧马人',
+            artist: '谢春花',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/mumaren.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/mumaren.jpg',
+        },
+        {
             name: '理想三旬',
             artist: '谢春花',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/lixiangsanxun.mp3',
@@ -80,10 +92,22 @@ const ap = new APlayer({
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Non_Je_Ne_Regrette_Rien.jpg',
         },
         {
+            name: '特务J',
+            artist: '蔡依林',
+            url: 'http://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/tewuj.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/tewuj.jpg',
+        },
+        {
             name: '引诱',
             artist: '久石让',
             url: 'http://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/lure.mp3',
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/lure.jpg',
+        },
+        {
+            name: '你的答案',
+            artist: '阿冗',
+            url: 'http://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/nidedaan.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/nidedaan.jpg',
         },
         {
             name: 'Heathens',
