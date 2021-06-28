@@ -98,6 +98,12 @@ const ap = new APlayer({
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Soviet_March.jpg',
         },
         {
+            name: 'Yuriko_Theme',
+            artist: '红色警戒3起义',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/YurikoTheme.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/YurikoTheme.jpg',
+        },
+        {
             name: '光辉岁月',
             artist: 'Beyond',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/guanghuisuiyue.mp3',
@@ -144,6 +150,12 @@ const ap = new APlayer({
             artist: 'Suicide Squad',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Heathens.mp3',
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Heathens.jpg',
+        },
+        {
+            name: 'TRON_Legacy(End_Titles)',
+            artist: 'TRON',
+            url: 'http://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/TRON_Legacy(End_Titles).mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/TRON_Legacy(End_Titles).jpg',
         },
         {
             name: 'Daybreak',
