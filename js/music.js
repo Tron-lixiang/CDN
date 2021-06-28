@@ -39,7 +39,7 @@ const ap = new APlayer({
         },
         {
             name: '牧马人',
-            artist: '谢春花',
+            artist: '杨坤',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/mumaren.mp3',
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/mumaren.jpg',
         },
