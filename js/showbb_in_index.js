@@ -2,7 +2,7 @@ function getbbdata(){
     var bbsurl = bbShortApiUrl
 
     var httpRequest = new XMLHttpRequest();//第一步：建立所需的对象
-    httpRequest.open('GET', bbsurl, true);//第二步：打开连接  将请求参数写在url中  ps:"./Ptest.php?name=test&nameone=testone"
+    httpRequest.open('GET', bbsurl, true);//第二步：打开连接  将请求参数写在url中
     httpRequest.send();//第三步：发送请求  将请求参数写在URL中
     /**
      * 获取数据后的处理程序
@@ -20,8 +20,8 @@ function getbbdata(){
                 }
             })
             // console.log(fundsArray)
-            saveToLocal.set('zhheo-bb', JSON.stringify(bbArray), 5 / (60 * 24))
-            const data = saveToLocal.get('zhheo-bb');
+            saveToLocal.set('lxpro-bb', JSON.stringify(bbArray), 5 / (60 * 24))
+            const data = saveToLocal.get('lxpro-bb');
             generateBBHtml(JSON.parse(data))
         }
     };
@@ -58,7 +58,7 @@ var generateBBHtml = array => {
 var bbInit = () => {
 // console.log('运行')
     if (document.querySelector('#bber-talk')) {
-        const data = saveToLocal.get('zhheo-bb');
+        const data = saveToLocal.get('lxpro-bb');
         if (data) {
             generateBBHtml(JSON.parse(data))
         } else {
