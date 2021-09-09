@@ -20,6 +20,12 @@ const ap = new APlayer({
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/qianshijinsheng.jpg',
         },
         {
+            name: 'Havana',
+            artist: 'Camila-Cabello & Young-Thug',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Havana.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Havana.jpg',
+        },
+        {
             name: 'Light of the Seven',
             artist: 'Ramin Djawadi',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Light_of_the_Seven.mp3',
@@ -86,16 +92,22 @@ const ap = new APlayer({
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Sweet_Dreams.jpg',
         },
         {
+            name: 'DanceMonkey',
+            artist: 'TonesandI',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/TonesandI-DanceMonkey.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/TonesandI-DanceMonkey.jpg',
+        },
+        {
             name: '男孩别哭',
             artist: 'dope',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/nanhaibieku.mp3',
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/nanhaibieku.jpg',
         },
         {
-            name: 'Soviet March',
-            artist: '红色警戒3',
-            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/soviet_march.mp3',
-            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Soviet_March.jpg',
+            name: 'Counting Sheep',
+            artist: 'SAFIA',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/SAFIA-CountingSheep.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/SAFIA-CountingSheep.jpg',
         },
         {
             name: 'Yuriko Theme',
@@ -116,6 +128,12 @@ const ap = new APlayer({
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Non_Je_Ne_Regrette_Rien.jpg',
         },
         {
+            name: 'Faded',
+            artist: 'AlanWalker',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Faded.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Faded.jpg',
+        },
+        {
             name: '特务J',
             artist: '蔡依林',
             url: 'http://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/tewuj.mp3',
@@ -132,6 +150,12 @@ const ap = new APlayer({
             artist: '阿冗',
             url: 'http://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/nidedaan.mp3',
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/nidedaan.jpg',
+        },
+        {
+            name: 'Please Don\'t Go',
+            artist: 'JoelAdams',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/PleaseDon_tGo.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/PleaseDon_tGo.jpg',
         },
         {
             name: 'Pimped_out_Getaway',
