@@ -93,7 +93,7 @@ const ap = new APlayer({
         },
         {
             name: 'Dance Monkey',
-            artist: 'TonesandI',
+            artist: 'Tones and I',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/TonesandI-DanceMonkey.mp3',
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/TonesandI-DanceMonkey.jpg',
         },
