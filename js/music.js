@@ -129,7 +129,7 @@ const ap = new APlayer({
         },
         {
             name: 'Faded',
-            artist: 'AlanWalker',
+            artist: 'Alan Walker',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Faded.mp3',
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Faded.jpg',
         },
@@ -153,7 +153,7 @@ const ap = new APlayer({
         },
         {
             name: 'Please Don\'t Go',
-            artist: 'JoelAdams',
+            artist: 'Joel Adams',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/PleaseDon_tGo.mp3',
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/PleaseDon_tGo.jpg',
         },
