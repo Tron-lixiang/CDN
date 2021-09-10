@@ -92,7 +92,7 @@ const ap = new APlayer({
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Sweet_Dreams.jpg',
         },
         {
-            name: 'DanceMonkey',
+            name: 'Dance Monkey',
             artist: 'TonesandI',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/TonesandI-DanceMonkey.mp3',
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/TonesandI-DanceMonkey.jpg',
