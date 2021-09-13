@@ -230,6 +230,12 @@ const ap = new APlayer({
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/WriteThisDown.jpg',
         },
         {
+            name: 'Morsmordre',
+            artist: 'Crazy Donkey',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/CrazyDonkeyMorsmordre.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/CrazyDonkeyMorsmordre.jpg',
+        },
+        {
             name: 'TRON_Legacy(End_Titles)',
             artist: 'TRON',
             url: 'http://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/TRON_Legacy(End_Titles).mp3',
