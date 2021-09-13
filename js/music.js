@@ -53,7 +53,7 @@ const ap = new APlayer({
             name: 'Wrap Me in Plastic',
             artist: 'Chromance',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/WrapMeInPlastic.mp3',
-            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/WrapMeInPlastic.jpg',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/WrapMeInPlastic.jpg?x-oss-process=style/compress',
         },
         {
             name: 'Lovefool',
@@ -197,7 +197,7 @@ const ap = new APlayer({
             name: 'Thunderclouds',
             artist: 'LSD_Sia_Diplo_Labrinth',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Thunderclouds.mp3',
-            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Thunderclouds.jpg',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Thunderclouds.jpg?x-oss-process=style/compress',
         },
         {
             name: 'Heathens',
