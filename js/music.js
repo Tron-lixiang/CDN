@@ -38,13 +38,13 @@ const ap = new APlayer({
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Welcome_To_Los_Santos.jpg',
         },
         {
-            name: 'Theme_From_SanAndreas',
+            name: 'Theme From SanAndreas',
             artist: 'GTA4',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Theme_From_SanAndreas.mp3',
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Theme_From_SanAndreas.jpg',
         },
         {
-            name: '2_Phút_Hơn',
+            name: '2 Phút Hơn',
             artist: 'Pháo,Kaiz',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/2_Phút_Hơn.mp3',
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/2_Phút_Hơn.jpg',
