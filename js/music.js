@@ -62,6 +62,12 @@ const ap = new APlayer({
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/twocolors-Lovefool.jpg',
         },
         {
+            name: 'Can\'t Get You out of My Head',
+            artist: 'Glimmer of Blooms',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/GlimmerOfBloomsCannotGetYououtofMyHead.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/GlimmerOfBloomsCannotGetYououtofMyHead.jpg?x-oss-process=style/compress',
+        },
+        {
             name: '最美的期待',
             artist: '周笔畅',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/zuimeideqidai.mp3',
