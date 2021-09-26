@@ -45,7 +45,7 @@ const ap = new APlayer({
         },
         {
             name: '2 Phút Hơn',
-            artist: 'Pháo,Kaiz',
+            artist: 'Pháo & Kaiz',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/2_Phút_Hơn.mp3',
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/2_Phút_Hơn.jpg',
         },
