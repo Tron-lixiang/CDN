@@ -221,7 +221,7 @@ const ap = new APlayer({
             name: 'Natural',
             artist: 'Imagine Dragons',
             url: 'http://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Imagine_Dragons_Natural_CUT.mp3',
-            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Imagine_Dragons_Natural_CUT.jpg',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Imagine_Dragons_Natural_CUT.jpg?x-oss-process=style/compress',
         },
         {
             name: 'Daybreak',
