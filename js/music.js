@@ -122,16 +122,16 @@ const ap = new APlayer({
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/TonesandI-DanceMonkey.jpg',
         },
         {
-            name: '男孩别哭',
-            artist: 'dope',
-            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/nanhaibieku.mp3',
-            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/nanhaibieku.jpg',
-        },
-        {
             name: 'Whataya Want From Me',
             artist: 'P!nk',
             url: 'http://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Whataya_Want_from_Me.mp3',
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Whataya_Want_from_Me.jpg',
+        },
+        {
+            name: '男孩别哭',
+            artist: 'dope',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/nanhaibieku.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/nanhaibieku.jpg',
         },
         {
             name: 'Intro AE86',
