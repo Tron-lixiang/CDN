@@ -128,6 +128,12 @@ const ap = new APlayer({
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/nanhaibieku.jpg',
         },
         {
+            name: 'Whataya Want From Me',
+            artist: 'P!nk',
+            url: 'http://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Whataya_Want_from_Me.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Whataya_Want_from_Me.jpg',
+        },
+        {
             name: 'Intro AE86',
             artist: '陈光荣',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/IntroAE86.mp3',
@@ -210,6 +216,12 @@ const ap = new APlayer({
             artist: 'Suicide Squad',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Heathens.mp3',
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Heathens.jpg',
+        },
+        {
+            name: 'Natural',
+            artist: 'Imagine Dragons',
+            url: 'http://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Imagine_Dragons_Natural_CUT.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Imagine_Dragons_Natural_CUT.jpg',
         },
         {
             name: 'Daybreak',
