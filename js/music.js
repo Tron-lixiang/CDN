@@ -20,6 +20,12 @@ const ap = new APlayer({
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/qianshijinsheng.jpg',
         },
         {
+            name: 'Friendships',
+            artist: 'Pascal Letoublon & Leony',
+            url: 'http://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Friendships.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Friendships.jpg',
+        },
+        {
             name: 'Havana',
             artist: 'Camila-Cabello & Young-Thug',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Havana.mp3',
