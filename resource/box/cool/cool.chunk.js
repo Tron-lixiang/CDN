@@ -145,7 +145,7 @@
                 ne = q.reducer;
 
             function ae(e) {
-                return "https://cdn.jsdelivr.net/gh/YunYouJun/air-conditioner/public" + e
+                return "https://cdn.jsdelivr.net/gh/tron-lixiang/cdn@master/resource/box/cool" + e
             }
             var oe, ce, ie = Object(x.a)((function(e) {
                 return {
