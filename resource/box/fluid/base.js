@@ -39,12 +39,12 @@ promoPopupClose.addEventListener('click', e => {
     promoPopup.style.display = 'none';
 });
 
-const googleLink = document.getElementById('master_link');
+const googleLink = document.getElementById('apple_link');
 googleLink.addEventListener('click', e => {
     window.open('https://www.lixiangpro.com/');
 });
 
-const appleLink = document.getElementById('gallery_link');
+const appleLink = document.getElementById('google_link');
 appleLink.addEventListener('click', e => {
     window.open('https://www.lixiangpro.com/gallery/');
 });
@@ -231,7 +231,7 @@ function startGUI () {
     captureFolder.addColor(config, 'BACK_COLOR').name('背景颜色');
     captureFolder.add(config, 'TRANSPARENT').name('透明背景');
     captureFolder.add({ fun: captureScreenshot }, 'fun').name('截图');
-	
+
     if (isMobile())
         gui.close();
 }
