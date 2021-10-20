@@ -20,6 +20,18 @@ const ap = new APlayer({
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/qianshijinsheng.jpg',
         },
         {
+            name: 'Friendships',
+            artist: 'Pascal Letoublon & Leony',
+            url: 'http://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Friendships.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Friendships.jpg',
+        },
+        {
+            name: 'Havana',
+            artist: 'Camila-Cabello & Young-Thug',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Havana.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Havana.jpg',
+        },
+        {
             name: 'Light of the Seven',
             artist: 'Ramin Djawadi',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Light_of_the_Seven.mp3',
@@ -32,16 +44,34 @@ const ap = new APlayer({
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Welcome_To_Los_Santos.jpg',
         },
         {
-            name: 'Theme_From_SanAndreas',
+            name: 'Theme From SanAndreas',
             artist: 'GTA4',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Theme_From_SanAndreas.mp3',
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Theme_From_SanAndreas.jpg',
         },
         {
-            name: '2_Phút_Hơn',
-            artist: 'Pháo,Kaiz',
+            name: '2 Phút Hơn',
+            artist: 'Pháo & Kaiz',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/2_Phút_Hơn.mp3',
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/2_Phút_Hơn.jpg',
+        },
+        {
+            name: 'Wrap Me in Plastic',
+            artist: 'Chromance',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/WrapMeInPlastic.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/WrapMeInPlastic.jpg?x-oss-process=style/compress',
+        },
+        {
+            name: 'Lovefool',
+            artist: 'Twocolors',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/twocolors-Lovefool.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/twocolors-Lovefool.jpg',
+        },
+        {
+            name: 'Can\'t Get You out of My Head',
+            artist: 'Glimmer of Blooms',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/GlimmerOfBloomsCannotGetYououtofMyHead.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/GlimmerOfBloomsCannotGetYououtofMyHead.jpg?x-oss-process=style/compress',
         },
         {
             name: '最美的期待',
@@ -74,6 +104,12 @@ const ap = new APlayer({
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/ferry.jpg',
         },
         {
+            name: 'Hall Om Mig',
+            artist: 'Nanne',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/NanneHallomMig.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/NanneHallomMig.jpg',
+        },
+        {
             name: 'Kолыбельная',
             artist: 'Rauf & Faik',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/yaolanqu.mp3',
@@ -86,16 +122,34 @@ const ap = new APlayer({
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Sweet_Dreams.jpg',
         },
         {
+            name: 'Dance Monkey',
+            artist: 'Tones and I',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/TonesandI-DanceMonkey.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/TonesandI-DanceMonkey.jpg',
+        },
+        {
+            name: 'Whataya Want From Me',
+            artist: 'P!nk',
+            url: 'http://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Whataya_Want_from_Me.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Whataya_Want_from_Me.jpg',
+        },
+        {
             name: '男孩别哭',
             artist: 'dope',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/nanhaibieku.mp3',
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/nanhaibieku.jpg',
         },
         {
-            name: 'Soviet March',
-            artist: '红色警戒3',
-            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/soviet_march.mp3',
-            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Soviet_March.jpg',
+            name: 'Intro AE86',
+            artist: '陈光荣',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/IntroAE86.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/IntroAE86.jpg',
+        },
+        {
+            name: 'Counting Sheep',
+            artist: 'SAFIA',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/SAFIA-CountingSheep.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/SAFIA-CountingSheep.jpg',
         },
         {
             name: 'Yuriko Theme',
@@ -116,6 +170,12 @@ const ap = new APlayer({
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Non_Je_Ne_Regrette_Rien.jpg',
         },
         {
+            name: 'Faded',
+            artist: 'Alan Walker',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Faded.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Faded.jpg',
+        },
+        {
             name: '特务J',
             artist: '蔡依林',
             url: 'http://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/tewuj.mp3',
@@ -134,6 +194,12 @@ const ap = new APlayer({
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/nidedaan.jpg',
         },
         {
+            name: 'Please Don\'t Go',
+            artist: 'Joel Adams',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/PleaseDon_tGo.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/PleaseDon_tGo.jpg',
+        },
+        {
             name: 'Pimped_out_Getaway',
             artist: 'PAYDAY2',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Pimped_out_Getaway.mp3',
@@ -146,10 +212,22 @@ const ap = new APlayer({
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Gangstas_Paradise.jpg',
         },
         {
+            name: 'Thunderclouds',
+            artist: 'LSD_Sia_Diplo_Labrinth',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Thunderclouds.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Thunderclouds.jpg?x-oss-process=style/compress',
+        },
+        {
             name: 'Heathens',
             artist: 'Suicide Squad',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Heathens.mp3',
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Heathens.jpg',
+        },
+        {
+            name: 'Natural',
+            artist: 'Imagine Dragons',
+            url: 'http://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Imagine_Dragons_Natural_CUT.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Imagine_Dragons_Natural_CUT.jpg?x-oss-process=style/compress',
         },
         {
             name: 'Daybreak',
@@ -161,13 +239,25 @@ const ap = new APlayer({
             name: 'In The Eyes',
             artist: '江映东',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/In_the_eyes.mp3',
-            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/In_the_eyes.jpg?x-oss-process=style/reduce',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/In_the_eyes.jpg?x-oss-process=style/compress',
         },
         {
             name: 'Experience',
             artist: 'Ludovico Einaudi',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Experience.mp3',
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Experience.jpg',
+        },
+        {
+            name: 'Write This Down',
+            artist: 'Soulchef',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/WriteThisDown.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/WriteThisDown.jpg',
+        },
+        {
+            name: 'Morsmordre',
+            artist: 'Crazy Donkey',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/CrazyDonkeyMorsmordre.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/CrazyDonkeyMorsmordre.jpg',
         },
         {
             name: 'TRON_Legacy(End_Titles)',
