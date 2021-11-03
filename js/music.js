@@ -200,6 +200,12 @@ const ap = new APlayer({
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/PleaseDon_tGo.jpg',
         },
         {
+            name: 'Way Back Then',
+            artist: '鱿鱼游戏',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Way-Back-then.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Way-Back-then.jpg?x-oss-process=style/compress',
+        },
+        {
             name: 'Pimped_out_Getaway',
             artist: 'PAYDAY2',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Pimped_out_Getaway.mp3',
