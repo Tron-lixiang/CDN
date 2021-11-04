@@ -194,6 +194,12 @@ const ap = new APlayer({
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/nidedaan.jpg',
         },
         {
+            name: '莫呼洛迦',
+            artist: '青蛇',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Mohuloga.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Mohuloga.jpg?x-oss-process=style/compress',
+        },
+        {
             name: 'Please Don\'t Go',
             artist: 'Joel Adams',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/PleaseDon_tGo.mp3',
