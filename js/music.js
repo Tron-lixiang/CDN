@@ -195,7 +195,7 @@ const ap = new APlayer({
         },
         {
             name: '莫呼洛迦',
-            artist: '青蛇',
+            artist: '辛晓琪',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Mohuloga.mp3',
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Mohuloga.jpg?x-oss-process=style/compress',
         },
