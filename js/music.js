@@ -212,6 +212,12 @@ const ap = new APlayer({
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Way-Back-then.jpg?x-oss-process=style/compress',
         },
         {
+            name: 'Hymn for the Weekend',
+            artist: 'Coldplay & SeeB',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Hymn-for-the-Weekend.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Hymn-for-the-Weekend.jpg?x-oss-process=style/compress',
+        },
+        {
             name: 'Pimped_out_Getaway',
             artist: 'PAYDAY2',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Pimped_out_Getaway.mp3',
