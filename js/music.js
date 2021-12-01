@@ -98,16 +98,16 @@ const ap = new APlayer({
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/songbie.jpg?x-oss-process=style/compress',
         },
         {
-            name: '当年情',
-            artist: '张国荣',
-            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/dang-nian-qing-Live_brother.mp3',
-            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/dang-nian-qing-Live_brother.jpg?x-oss-process=style/compress',
-        },
-        {
             name: '渡口',
             artist: '蔡琴',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/ferry.mp3',
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/ferry.jpg?x-oss-process=style/compress',
+        },
+        {
+            name: '当年情',
+            artist: '张国荣',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/dang-nian-qing-Live_brother.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/dang-nian-qing-Live_brother.jpg?x-oss-process=style/compress',
         },
         {
             name: 'Hall Om Mig',
