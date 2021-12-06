@@ -206,6 +206,24 @@ const ap = new APlayer({
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Mohuloga.jpg?x-oss-process=style/compress',
         },
         {
+            name: '来自天堂的魔鬼',
+            artist: '邓紫棋',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/lai-zi-tian-tang-de-muo-gui.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/lai-zi-tian-tang-de-muo-gui.jpg?x-oss-process=style/compress',
+        },
+        {
+            name: '月半小夜曲',
+            artist: '李克勤',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/yue-ban-xiao-ye-qu.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/yue-ban-xiao-ye-qu.jpg?x-oss-process=style/compress',
+        },
+        {
+            name: '烦恼歌',
+            artist: '张学友',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/fan-nao.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/fan-nao.jpg?x-oss-process=style/compress',
+        },
+        {
             name: 'Please Don\'t Go',
             artist: 'Joel Adams',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/PleaseDon_tGo.mp3',
