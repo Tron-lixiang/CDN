@@ -62,6 +62,12 @@ const ap = new APlayer({
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/WrapMeInPlastic.jpg?x-oss-process=style/compress',
         },
         {
+            name: 'Never Never',
+            artist: 'Drenchill & Indiiana',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/NeverNever.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/NeverNever.jpg?x-oss-process=style/compress',
+        },
+        {
             name: 'Lovefool',
             artist: 'Twocolors',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/twocolors-Lovefool.mp3',
@@ -150,6 +156,12 @@ const ap = new APlayer({
             artist: '陈光荣',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/IntroAE86.mp3',
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/IntroAE86.jpg?x-oss-process=style/compress',
+        },
+        {
+            name: 'Drunk Groove',
+            artist: 'Марув',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/DrunkGroove.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/DrunkGroove.jpg?x-oss-process=style/compress',
         },
         {
             name: 'Counting Sheep',
