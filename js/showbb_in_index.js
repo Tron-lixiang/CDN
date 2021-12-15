@@ -41,10 +41,10 @@ var generateBBHtml = array => {
         if(screen_width < 500 && screen_height < 800){
             for (let i = 0; i < array.length; i++) {
                 var itemcontent = array[i].content
-                if(itemcontent.length>26){
-                    itemcontent=itemcontent.slice(0,25)+"..."
-                }
                 var newitemcontent = itemcontent.replace(/<img\b.*?(?:\>|\/>)/gi,' [图片] ')
+                if(newitemcontent.length>26){
+                   newitemcontent=newitemcontent.slice(0,25)+"..."
+                }
                 result += `<div class='li-style swiper-slide'>${newitemcontent}</div>`;
             }
         }else{
