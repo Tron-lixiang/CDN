@@ -30,13 +30,29 @@ function getbbdata(){
 
 var generateBBHtml = array => {
     var $dom = document.querySelector('#bber-talk');
-    var result = ''
+    var result = '';
+
+    // 兼容小屏icon
+    var screen_width = window.screen.width;
+    var screen_height = window.screen.height;
 
     if (array.length) {
-        for (let i = 0; i < array.length; i++) {
-            var itemcontent = array[i].content
-            var newitemcontent = itemcontent.replace(/<img\b.*?(?:\>|\/>)/gi,' [图片] ')
-            result += `<div class='li-style swiper-slide'>${newitemcontent}</div>`;
+        // 当前为手机或小屏设备将进行字符串截取
+        if(screen_width < 500 && screen_height < 800){
+            for (let i = 0; i < array.length; i++) {
+                var itemcontent = array[i].content
+                var newitemcontent = itemcontent.replace(/<img\b.*?(?:\>|\/>)/gi,' [图片] ')
+                if(newitemcontent.length>26){
+                   newitemcontent=newitemcontent.slice(0,25)+"..."
+                }
+                result += `<div class='li-style swiper-slide'>${newitemcontent}</div>`;
+            }
+        }else{
+            for (let i = 0; i < array.length; i++) {
+                 var itemcontent = array[i].content
+                 var newitemcontent = itemcontent.replace(/<img\b.*?(?:\>|\/>)/gi,' [图片] ')
+                 result += `<div class='li-style swiper-slide'>${newitemcontent}</div>`;
+            }
         }
     } else {
         result += '!{_p("aside.card_funds.zero")}';
