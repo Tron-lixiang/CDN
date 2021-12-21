@@ -194,6 +194,12 @@ const ap = new APlayer({
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Faded.jpg?x-oss-process=style/compress',
         },
         {
+            name: 'Larg',
+            artist: 'Elgit Doda',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Larg.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Larg.jpg?x-oss-process=style/compress',
+        },
+        {
             name: '特务J',
             artist: '蔡依林',
             url: 'http://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/tewuj.mp3',
@@ -234,6 +240,12 @@ const ap = new APlayer({
             artist: '张学友',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/fan-nao.mp3',
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/fan-nao.jpg?x-oss-process=style/compress',
+        },
+        {
+            name: 'Genie In A Bottle',
+            artist: 'Enes Yurtlu',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Genie_In_A_Bottle.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Genie_In_A_Bottle.jpg?x-oss-process=style/compress',
         },
         {
             name: 'Please Don\'t Go',
