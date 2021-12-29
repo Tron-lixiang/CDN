@@ -260,6 +260,12 @@ const ap = new APlayer({
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Way-Back-then.jpg?x-oss-process=style/compress',
         },
         {
+            name: 'Let Me Down Slowly',
+            artist: 'Alec Benjamin',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Let_Me_Down_Slowly_CUT.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Let_Me_Down_Slowly.jpg?x-oss-process=style/compress',
+        },
+        {
             name: 'Hymn for the Weekend',
             artist: 'Coldplay & SeeB',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Hymn-for-the-Weekend.mp3',
