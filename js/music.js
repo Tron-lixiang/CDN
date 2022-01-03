@@ -314,6 +314,12 @@ const ap = new APlayer({
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/In_the_eyes.jpg?x-oss-process=style/compress',
         },
         {
+            name: 'La Câlin',
+            artist: 'Serhat Durmus',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/LaCalin.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/LaCalin.jpg?x-oss-process=style/compress',
+        },
+        {
             name: 'Experience',
             artist: 'Ludovico Einaudi',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Experience.mp3',
