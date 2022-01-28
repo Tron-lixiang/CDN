@@ -171,7 +171,7 @@ const ap = new APlayer({
         },
         {
             name: 'Lalala',
-            artist: 'Y2K & BBNO$',
+            artist: 'Y2K',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Lalala.mp3',
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Lalala.jpg?x-oss-process=style/compress',
         },
