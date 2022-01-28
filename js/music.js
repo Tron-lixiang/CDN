@@ -370,13 +370,11 @@ const ap = new APlayer({
     ]
 });
 
-// 监听加载完成后事件
-window.addEventListener('load', () => {
-    var apShow=document.getElementById('aplayer')
-    // 监听到加载完毕后,音乐播放器展开显示给用户
-    apShow.setAttribute("class", "aplayer aplayer-withlist aplayer-mobile aplayer-fixed");
-    setTimeout(function () {
-        // 延迟三秒后折叠音乐播放器
-        apShow.setAttribute("class", "aplayer aplayer-withlist aplayer-mobile aplayer-fixed aplayer-narrow");
-    }, 3000);
-})
+// 加载完成后,音乐播放器将展开显示给用户
+var apShow=document.getElementById('aplayer')
+apShow.setAttribute("class", "aplayer aplayer-withlist aplayer-mobile aplayer-fixed");
+// 延迟三秒后折叠音乐播放器
+setTimeout(function () {
+    // 延迟三秒后折叠音乐播放器
+    apShow.setAttribute("class", "aplayer aplayer-withlist aplayer-mobile aplayer-fixed aplayer-narrow");
+}, 3000);
