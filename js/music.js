@@ -80,6 +80,12 @@ const ap = new APlayer({
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/GlimmerOfBloomsCannotGetYououtofMyHead.jpg?x-oss-process=style/compress',
         },
         {
+            name: 'Alone & Sing Me To Sleep',
+            artist: 'J.Fla',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Alone-Sing-Me-To-Sleep.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Alone-Sing-Me-To-Sleep.jpg?x-oss-process=style/compress',
+        },
+        {
             name: '最美的期待',
             artist: '周笔畅',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/zuimeideqidai.mp3',
@@ -114,6 +120,12 @@ const ap = new APlayer({
             artist: '张国荣',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/dang-nian-qing-Live_brother.mp3',
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/dang-nian-qing-Live_brother.jpg?x-oss-process=style/compress',
+        },
+        {
+            name: 'BALLIN',
+            artist: 'JUPITER',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/ballin.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/ballin.jpg?x-oss-process=style/compress',
         },
         {
             name: 'Hall Om Mig',
@@ -156,6 +168,12 @@ const ap = new APlayer({
             artist: '陈光荣',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/IntroAE86.mp3',
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/IntroAE86.jpg?x-oss-process=style/compress',
+        },
+        {
+            name: 'Lalala',
+            artist: 'Y2K & BBNO$',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Lalala.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Lalala.jpg?x-oss-process=style/compress',
         },
         {
             name: 'Drunk Groove',
@@ -312,6 +330,12 @@ const ap = new APlayer({
             artist: '江映东',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/In_the_eyes.mp3',
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/In_the_eyes.jpg?x-oss-process=style/compress',
+        },
+        {
+            name: '☁',
+            artist: 'FT & ST',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Cloud-fat-tiger-steve-tist.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Cloud-fat-tiger-steve-tist.jpg?x-oss-process=style/compress',
         },
         {
             name: 'La Câlin',
