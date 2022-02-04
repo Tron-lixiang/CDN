@@ -373,8 +373,8 @@ const ap = new APlayer({
 // 加载完成后,音乐播放器将展开显示给用户
 var apShow=document.getElementById('aplayer')
 apShow.setAttribute("class", "aplayer aplayer-withlist aplayer-mobile aplayer-fixed");
-// 延迟5秒后折叠音乐播放器
+// 延迟五秒后折叠音乐播放器
 setTimeout(function () {
-    // 延迟三秒后折叠音乐播放器
+    // 延迟五秒后折叠
     apShow.setAttribute("class", "aplayer aplayer-withlist aplayer-mobile aplayer-fixed aplayer-narrow");
 }, 5000);
