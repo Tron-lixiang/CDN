@@ -170,6 +170,12 @@ const ap = new APlayer({
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/IntroAE86.jpg?x-oss-process=style/compress',
         },
         {
+            name: 'Ride it',
+            artist: 'Regard',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Ride_It.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Ride_It.jpg?x-oss-process=style/compress',
+        },
+        {
             name: 'Lalala',
             artist: 'Y2K',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Lalala.mp3',
@@ -258,6 +264,12 @@ const ap = new APlayer({
             artist: '张学友',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/fan-nao.mp3',
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/fan-nao.jpg?x-oss-process=style/compress',
+        },
+        {
+            name: '叹',
+            artist: '黄龄',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/tan.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/tan.jpg?x-oss-process=style/compress',
         },
         {
             name: 'Genie In A Bottle',
