@@ -38,7 +38,7 @@ var generateBBHtml = array => {
 
     if (array.length) {
         // 当前为手机或小屏设备将进行字符串截取
-        if(screen_width < 500 && screen_height < 800){
+        if(screen_width < 500 && screen_height < 1000){
             for (let i = 0; i < array.length; i++) {
                 var itemcontent = array[i].content
                 var newitemcontent = itemcontent.replace(/<img\b.*?(?:\>|\/>)/gi,' [图片] ')

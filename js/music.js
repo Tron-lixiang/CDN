@@ -80,6 +80,13 @@ const ap = new APlayer({
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/GlimmerOfBloomsCannotGetYououtofMyHead.jpg?x-oss-process=style/compress',
         },
         {
+            name: 'People Always Like To Mistake Short And',
+            artist: 'Klein Blue',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/People_Always_Like_To_Mistake_Short_And.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/People_Always_Like_To_Mistake_Short_And.jpg?x-oss-process=style/compress',
+        }
+        ,
+        {
             name: 'Alone & Sing Me To Sleep',
             artist: 'J.Fla',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Alone-Sing-Me-To-Sleep.mp3',
@@ -121,6 +128,13 @@ const ap = new APlayer({
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/dang-nian-qing-Live_brother.mp3',
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/dang-nian-qing-Live_brother.jpg?x-oss-process=style/compress',
         },
+        {
+            name: 'Angetenar',
+            artist: 'Emre Kabak',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Angetenar.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Angetenar.jpg?x-oss-process=style/compress',
+        }
+        ,
         {
             name: 'BALLIN',
             artist: 'JUPITER',
@@ -168,6 +182,12 @@ const ap = new APlayer({
             artist: '陈光荣',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/IntroAE86.mp3',
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/IntroAE86.jpg?x-oss-process=style/compress',
+        },
+        {
+            name: 'Ride it',
+            artist: 'Regard',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Ride_It.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Ride_It.jpg?x-oss-process=style/compress',
         },
         {
             name: 'Lalala',
@@ -258,6 +278,12 @@ const ap = new APlayer({
             artist: '张学友',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/fan-nao.mp3',
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/fan-nao.jpg?x-oss-process=style/compress',
+        },
+        {
+            name: '叹',
+            artist: '黄龄',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/tan.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/tan.jpg?x-oss-process=style/compress',
         },
         {
             name: 'Genie In A Bottle',
