@@ -304,6 +304,12 @@ const ap = new APlayer({
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Way-Back-then.jpg?x-oss-process=style/compress',
         },
         {
+            name: 'Because Of You',
+            artist: 'Josh Vietti',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Because_of_You.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Because_of_You.jpg?x-oss-process=style/compress',
+        },
+        {
             name: 'Let Me Down Slowly',
             artist: 'Alec Benjamin',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Let_Me_Down_Slowly_CUT.mp3',
@@ -364,6 +370,12 @@ const ap = new APlayer({
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Cloud-fat-tiger-steve-tist.jpg?x-oss-process=style/compress',
         },
         {
+            name: 'Morze',
+            artist: 'Slider & Magnit',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Morze.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Morze.jpg?x-oss-process=style/compress',
+        },
+        {
             name: 'La Câlin',
             artist: 'Serhat Durmus',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/LaCalin.mp3',
@@ -374,6 +386,12 @@ const ap = new APlayer({
             artist: 'Ludovico Einaudi',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Experience.mp3',
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Experience.jpg?x-oss-process=style/compress',
+        },
+        {
+            name: 'Hey Mama',
+            artist: 'David Guetta',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/David_Guetta_Hey_Mama.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/David_Guetta_Hey_Mama.jpg?x-oss-process=style/compress',
         },
         {
             name: 'Write This Down',
