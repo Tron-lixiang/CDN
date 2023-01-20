@@ -68,7 +68,7 @@ const ap = new APlayer({
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/NeverNever.jpg?x-oss-process=style/compress',
         },
         {
-            name: 'Lovefool',
+            name: 'Love fool',
             artist: 'Twocolors',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/twocolors-Lovefool.mp3',
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/twocolors-Lovefool.jpg?x-oss-process=style/compress',
@@ -129,6 +129,12 @@ const ap = new APlayer({
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/dang-nian-qing-Live_brother.jpg?x-oss-process=style/compress',
         },
         {
+            name: 'Sorry',
+            artist: 'Alan Walker',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/sorry.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/sorry.jpeg?x-oss-process=style/compress',
+        },
+        {
             name: 'Angetenar',
             artist: 'Emre Kabak',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Angetenar.mp3',
@@ -176,6 +182,12 @@ const ap = new APlayer({
             artist: 'dope',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/nanhaibieku.mp3',
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/nanhaibieku.jpg?x-oss-process=style/compress',
+        },
+        {
+            name: '放空',
+            artist: '大籽',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/fang_kong.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/fang_kong.jpeg?x-oss-process=style/compress',
         },
         {
             name: 'Intro AE86',
@@ -296,6 +308,12 @@ const ap = new APlayer({
             artist: 'Joel Adams',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/PleaseDon_tGo.mp3',
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/PleaseDon_tGo.jpg?x-oss-process=style/compress',
+        },
+        {
+            name: 'Stay the Night',
+            artist: 'Just Kiddin',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/stay_the_night.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/stay_the_night.jpeg?x-oss-process=style/compress',
         },
         {
             name: 'Way Back Then',
