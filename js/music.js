@@ -298,6 +298,12 @@ const ap = new APlayer({
             cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/tan.jpg?x-oss-process=style/compress',
         },
         {
+            name: '是你',
+            artist: '梦然',
+            url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Shi-Ni.mp3',
+            cover: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/cover/Shi-Ni.JPG?x-oss-process=style/compress',
+        },
+        {
             name: 'Genie In A Bottle',
             artist: 'Enes Yurtlu',
             url: 'https://lixiangpro.oss-cn-hangzhou.aliyuncs.com/resource/music/source/Genie_In_A_Bottle.mp3',
